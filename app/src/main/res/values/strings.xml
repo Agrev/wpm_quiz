@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WPM_quiz</string>
+    <string name="question">Question</string>
+    <string name="answer1">X</string>
+    <string name="answer2">X</string>
+    <string name="answer3">X</string>
+    <string name="answer4">X</string>
+    <string name="congrats">Brawo!</string>
+    <string name="result">TextHolder</string>
+    <string name="wybierz_quiz_ponownie">Wybierz quiz ponownie</string>
+</resources>
